@@ -2,6 +2,10 @@
 
 This project analyzes Zomato restaurant data to provide insights into customer behavior, restaurant preferences, and ordering trends. Through various visualizations and data-driven analysis, the project answers several critical business questions for Zomato.
 
+## Questions: 
+![image](https://github.com/kamal01singh/zomato_data_analysis/blob/main/Images/Presentation1.jpg).
+
+
 ## Key Questions Answered:
 1. What type of restaurant do the majority of customers order from?
 -   Analyzed the distribution of restaurant types and customer preferences.
@@ -27,3 +31,6 @@ This project analyzes Zomato restaurant data to provide insights into customer b
 - Pandas & NumPy: Data cleaning and processing. 
 - Matplotlib & Seaborn: Data visualization (including line graphs, bar graphs, etc.). 
 - Jupyter Notebook: Interactive analysis environment.
+
+## Screenshots
+![image](https://github.com/kamal01singh/zomato_data_analysis/blob/main/Images/Code%20Snippet.jpg).
